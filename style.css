@@ -1009,7 +1009,7 @@ ul { list-style: none; }
   background: var(--gold);
   border-color: var(--gold);
 }
-.involve-card--accent * { color: var(--white) !important; }
+.involve-card--accent * { color: var(--black) !important; }
 .involve-card--accent .involve-card__num { color: rgba(255,255,255,0.3) !important; }
 
 .involve-card__num {
